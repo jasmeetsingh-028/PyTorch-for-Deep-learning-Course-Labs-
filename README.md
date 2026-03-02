@@ -16,3 +16,7 @@ This repository contains my personal solutions to the assignments and labs for t
 *   [Module 1: Building and Training a Model](Course%202/Assignments/C2M1_Assignment.ipynb)
 *   [Module 2: Model Deployment and Scaling](Course%202/Assignments/C2M2_Assignment.ipynb)
 *   [Module 3: AI-powered Application Development](Course%202/Assignments/C2M3_Assignment.ipynb)
+
+#### Labs
+
+*   [Module 1: Lab 3: Optuna](Course%202/code_examples/C2_M1_Lab_3_Optuna.ipynb)
